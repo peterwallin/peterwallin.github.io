@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "My hometown"
 title_separator          : "-"
 name                     : "Peter Wallin"
 description              : "I am on Fire."
@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "Peter Wallin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/profile-photo.jpg"
   bio              : "gone fishin."
   location         : "Stockholm"
-  email            :"peter.pw.wallin@gmail.com"
+  email            : "peter.pw.wallin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -118,7 +118,7 @@ author:
       # url: "https://www.linkedin.com/in/peterwallin79/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://peterwallin.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/pwallin79/"
@@ -126,20 +126,14 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -283,3 +277,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+#_pages
+scope: 
+  path: ""
+  type: pages
+  layout: single
+  author_profile: true
