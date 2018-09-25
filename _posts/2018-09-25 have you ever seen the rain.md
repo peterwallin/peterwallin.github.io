@@ -1,7 +1,12 @@
 ---
 title: "have you ever seen the rain"
+read_time: true
 categories:
   - social ramblings
+  tags:
+  - content
+  - excerpt
+  - layout
 ---
 
 
