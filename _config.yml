@@ -109,19 +109,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:peter.pw.wallin@gmail.com
+      url: mailto:peter.pw.wallin@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/peterwallin79/"
+      url: "https://www.linkedin.com/in/peterwallin79/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://peterwallin.github.io"
+      url: "https://peterwallin.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/pwallin79/"
+      url: "https://www.instagram.com/pwallin79/"
 
 # Site Footer
 footer:
