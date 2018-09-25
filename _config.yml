@@ -123,16 +123,13 @@ footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      # url:
+      url: "https://www.linkedin.com/in/peterwallin79/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://peterwallin.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/pwallin79/"
 
 
 # Reading Files
